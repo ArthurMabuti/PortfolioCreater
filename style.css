@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+}
+
+.conteudo__introducao {
+    margin: 3% 0;
+    text-align: center;
+}
+
+.conteudo__configuracao{
+    margin: 0 4%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.conteudo__configuracao label {
+    margin: 0 0 0.5rem;
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+
+.conteudo__configuracao__campos {
+    margin: 0 0 1rem;
+    width: 60%;
+    height: 2rem;
+}
